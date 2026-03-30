@@ -1,0 +1,32 @@
+============================================================
+       MY OPEN SOURCE MANIFESTO
+       Generated on: 30 March 2026 at 21:47:37
+       Author: Shriya Patel
+============================================================
+
+I believe that open-source software is not just a technical
+choice — it is a statement about the kind of world we want
+to build. Every day, I rely on python to do meaningful work,
+and the fact that it was built freely and shared generously
+reminds me that collaboration beats competition.
+
+To me, freedom means Accessibility. In the context of software,
+this translates to the right to read, modify, improve, and
+share the tools that shape our lives. A locked black box is
+the opposite of this. Open source is the only model that
+treats users as participants, not just consumers.
+
+If I could build and share one thing freely with the world,
+it would be An AI for healthcare. I would release it under an open
+license so that anyone — a student in Madhya Pradesh, a
+researcher in Berlin, a developer in Nairobi — could pick
+it up, learn from it, and make it better than I could alone.
+
+That is what open source means to me: the radical idea that
+knowledge grows when it is shared, and that the best tools
+in the world should belong to everyone.
+
+============================================================
+  Software audited: Python (PSF License)
+  Course: Open Source Software | VIT
+============================================================
